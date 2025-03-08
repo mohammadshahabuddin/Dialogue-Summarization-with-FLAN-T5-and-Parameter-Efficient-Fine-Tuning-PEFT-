@@ -7,7 +7,9 @@ This repository demonstrates the process of enhancing dialogue summarization cap
 The objective of this project is to improve the summarization performance of the FLAN-T5 model on dialogue data without performing full fine-tuning. We utilized the "knkarthick/dialogsum" dataset from Hugging Face, which is structured as follows:
 
 Training Set: 12,460 samples
+
 Validation Set: 500 samples
+
 Test Set: 1,500 samples
 
 **Setup and Installation**
